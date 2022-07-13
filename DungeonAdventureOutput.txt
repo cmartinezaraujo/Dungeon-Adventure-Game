@@ -1,0 +1,900 @@
+Welcome to Dungeon Adventure!
+Navigate through the dungeon and try to
+find all the pillars of OO. If you survive
+and make it to the exit with all the pillars,
+you win!
+
+Choose a hero:
+1. Warrior
+2. Sorceress
+3. Thief
+4. Ninja
+5. Wizard
+4
+Enter character name: nate the ninja
+------------------------------------------------
+Current room:
+*-*
+*I|
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 100
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 0/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 1
+
+
+------------------------------------------------
+Current room:
+*-*
+*H|
+*-*
+
+You picked up a healing potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 100
+Healing Potions: 1
+Vision Potions: 0
+Pillars found: 0/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 2
+
+
+1. Use healing potion
+2. Use vision potion
+Choice---> 1
+
+
+The potion you took granted you 7 hit points!
+------------------------------------------------
+Current room:
+*-*
+*E|
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 107
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 0/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 1
+
+
+------------------------------------------------
+Current room:
+***
+*?|
+*-*
+
+You have found a pillar of OO!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 107
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 1/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+***
+|M|
+*-*
+
+You fell into a pit and lost 8 hit points!
+You picked up a healing potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 99
+Healing Potions: 1
+Vision Potions: 0
+Pillars found: 1/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+***
+|X|
+*-*
+
+There is a moster in the room!
+nate the ninja battles Asmodeus the Demon
+---------------------------------------------
+Number of turns this round is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Asmodeus the Demon:
+Asmodeus the Demon hit  for <78> points damage.
+Asmodeus the Demon now has 2 hit points remaining.
+
+Asmodeus the Demon healed itself for 20 points.
+Total hit points remaining are: 22
+
+
+Asmodeus the Demon attacks nate the ninja:
+nate the ninja BLOCKED the attack!
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Asmodeus the Demon:
+Asmodeus the Demon hit  for <86> points damage.
+Asmodeus the Demon now has 0 hit points remaining.
+
+Asmodeus the Demon has been killed :-(
+
+nate the ninja was victorious!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 99
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 1/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+***
+|M|
+*-*
+
+You fell into a pit and lost 5 hit points!
+You picked up a healing potion!
+You picked up a vision potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 94
+Healing Potions: 1
+Vision Potions: 1
+Pillars found: 1/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 2
+
+
+1. Use healing potion
+2. Use vision potion
+Choice---> 2
+
+
+Vision potion activated!
+
+EM?
+?XM
+
+------------------------------------------------
+Current room:
+***
+|E|
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 94
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 1/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+***
+|?*
+*-*
+
+You have found a pillar of OO!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 94
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 2/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 2
+
+
+------------------------------------------------
+Current room:
+*-*
+|M*
+*-*
+
+You picked up a healing potion!
+You picked up a vision potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 94
+Healing Potions: 1
+Vision Potions: 1
+Pillars found: 2/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 2
+
+
+1. Use healing potion
+2. Use vision potion
+Choice---> 1
+
+
+The potion you took granted you 12 hit points!
+------------------------------------------------
+Current room:
+*-*
+|E*
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 2/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 4
+
+
+------------------------------------------------
+Current room:
+*-*
+|X|
+*-*
+
+There is a moster in the room!
+nate the ninja battles Oscar the Ogre
+---------------------------------------------
+Number of turns this round is: 2
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 2
+Surprise attack was successful!
+nate the ninja gets an additional turn.
+nate the ninja's attack on Oscar the Ogre failed!
+
+Number of turns remaining is: 2
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 2
+Uh oh! Oscar the Ogre saw you and blocked your attack!
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 2
+Uh oh! Oscar the Ogre saw you and blocked your attack!
+Oscar the Ogre slowly swings a club toward's nate the ninja:
+nate the ninja BLOCKED the attack!
+
+Number of turns this round is: 2
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 2
+Oscar the Ogre hit  for <76> points damage.
+Oscar the Ogre now has 124 hit points remaining.
+
+
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Oscar the Ogre:
+Oscar the Ogre hit  for <85> points damage.
+Oscar the Ogre now has 39 hit points remaining.
+
+
+Oscar the Ogre slowly swings a club toward's nate the ninja:
+nate the ninja BLOCKED the attack!
+
+Number of turns this round is: 2
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Oscar the Ogre:
+Oscar the Ogre hit  for <79> points damage.
+Oscar the Ogre now has 0 hit points remaining.
+
+Oscar the Ogre has been killed :-(
+
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Oscar the Ogre:
+Oscar the Ogre hit  for <90> points damage.
+Oscar the Ogre now has 0 hit points remaining.
+
+Oscar the Ogre has been killed :-(
+
+nate the ninja was victorious!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 2/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 4
+
+
+------------------------------------------------
+Current room:
+*-*
+|?|
+*-*
+
+You have found a pillar of OO!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 3/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 3
+
+
+Room types:
+M = Room has multiple items
+I = Room is an entrance
+O = Room is an exit
+H = Room has a healing potion
+V = Room has a vision potion
+P = Room has a pit
+? = Room has a pillar
+X = Room has a monster
+E = Room is empty
+------------------------------------------------
+Current room:
+*-*
+|E|
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 3/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 4
+
+
+Secret menu options
+1. Print the whole dungeon
+2. Set hit points to 5000
+3. Teleport to exit
+4. Set hit points to 0 (kill the hero)
+
+1
+***********
+*E|E|E|E|E*
+*-*-*-*-*-*
+*E|E|E|E|E*
+*-*-*-*-*-*
+*I|E|M|M|O*
+*-*-*-*-*-*
+*H|V|H|X|E*
+*-*-*-*-*-*
+*E|E|?|E|P*
+***********
+
+------------------------------------------------
+Current room:
+*-*
+|E|
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 3/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 2
+
+
+------------------------------------------------
+Current room:
+*-*
+|M|
+*-*
+
+There is a moster in the room!
+nate the ninja battles Asmodeus the Demon
+---------------------------------------------
+Number of turns this round is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Asmodeus the Demon:
+Asmodeus the Demon hit  for <75> points damage.
+Asmodeus the Demon now has 5 hit points remaining.
+
+Asmodeus the Demon healed itself for 14 points.
+Total hit points remaining are: 19
+
+
+Asmodeus the Demon attacks nate the ninja:
+Asmodeus the Demon's attack on nate the ninja failed!
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Surprise Attack
+Choose an option: 1
+nate the ninja throws a ninja star at Asmodeus the Demon:
+Asmodeus the Demon hit  for <68> points damage.
+Asmodeus the Demon now has 0 hit points remaining.
+
+Asmodeus the Demon has been killed :-(
+
+nate the ninja was victorious!
+You picked up a healing potion!
+You picked up a vision potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 1
+Vision Potions: 1
+Pillars found: 3/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 2
+
+
+------------------------------------------------
+Current room:
+*-*
+|H|
+*-*
+
+You picked up a healing potion!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 1
+Vision Potions: 0
+Pillars found: 3/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 2
+
+
+------------------------------------------------
+Current room:
+*-*
+|?|
+***
+
+You have found a pillar of OO!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 4
+
+
+Secret menu options
+1. Print the whole dungeon
+2. Set hit points to 5000
+3. Teleport to exit
+4. Set hit points to 0 (kill the hero)
+
+1
+***********
+*E|E|E|E|E*
+*-*-*-*-*-*
+*E|E|E|E|E*
+*-*-*-*-*-*
+*I|E|M|M|O*
+*-*-*-*-*-*
+*H|V|E|X|E*
+*-*-*-*-*-*
+*E|E|E|E|P*
+***********
+
+------------------------------------------------
+Current room:
+*-*
+|E|
+***
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+*-*
+|E|
+***
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 106
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 3
+
+
+------------------------------------------------
+Current room:
+*-*
+|P*
+***
+
+You fell into a pit and lost 11 hit points!
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 95
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 2
+
+
+OOPS you ran into a wall
+------------------------------------------------
+Current room:
+*-*
+|E*
+***
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 95
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 1
+
+
+------------------------------------------------
+Current room:
+*-*
+|E*
+*-*
+
+
+
+Current player stats:
+
+Name: nate the ninja
+Hit Points: 95
+Healing Potions: 0
+Vision Potions: 0
+Pillars found: 4/4
+
+Options:
+1. Move
+2. Use a potion
+3. Help
+4. Secret menu
+Choice---> 1
+
+
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+Choice---> 1
+
+
+You have found the exit! Would you like to exit (y/n)?
+y
+You survived and found all the pillars of OO you have won the game!
+
+Process finished with exit code 0
